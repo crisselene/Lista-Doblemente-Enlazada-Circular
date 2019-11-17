@@ -1,0 +1,3 @@
+C:/Users/Cris/Desktop/archivos UNI/CARRERA/PEL/Actividad II/cmake-build-debug/CMakeFiles/Actividad_II.dir
+C:/Users/Cris/Desktop/archivos UNI/CARRERA/PEL/Actividad II/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Cris/Desktop/archivos UNI/CARRERA/PEL/Actividad II/cmake-build-debug/CMakeFiles/rebuild_cache.dir
